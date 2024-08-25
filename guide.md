@@ -8,6 +8,9 @@ conflict: 2 nhánh khác nhau cùng chỉnh chung 1 file code.
         <h1>Conflic here</h1>
 >>>>>>> conflict
 
+loal, remote
+
+
 
 #Commands
 - git init
@@ -22,4 +25,4 @@ conflict: 2 nhánh khác nhau cùng chỉnh chung 1 file code.
 - git checkout -b <branch name>
 - git merge <branch name>
 - git branch -d <branch name>
-- 
+- git push
