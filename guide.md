@@ -26,3 +26,8 @@ loal, remote
 - git merge <branch name>
 - git branch -d <branch name>
 - git push
+- git remote add origin <link>
+- git push origin <branch name>
+- git clone <url>
+- git fetch origin
+- git checkout -b <branch name> origin/<branch name>
