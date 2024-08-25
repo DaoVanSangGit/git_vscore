@@ -1,7 +1,12 @@
 #Terms
 Repository (Repo)
 branch
-conflict
+conflict: 2 nhánh khác nhau cùng chỉnh chung 1 file code.
+<<<<<<< HEAD
+        <h1>conflic from mater</h1>
+=======
+        <h1>Conflic here</h1>
+>>>>>>> conflict
 
 
 #Commands
